@@ -1,3 +1,5 @@
 # 💬 Languages
-**English**: C1
-**Chinese**: Native
+**English**: Professional
+**Urdu**: Native
+**Hindi**: Native
+**Arabic**: Elementary

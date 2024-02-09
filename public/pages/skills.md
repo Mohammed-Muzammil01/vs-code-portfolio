@@ -5,28 +5,20 @@
 - Desktop App Development
 - Web Development (Frontend & Backend)
 
-## Programming languages
-- C# .NET
-- Python
-- JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+## 💻 Programming Skills:
+ - Proficient in C, JavaScript, Python, and Kotlin.
+ - Demonstrated expertise in full-stack web development using the MERN stack.
+ - Strong fundamentals in git, SQL and Linux command line.
 
-## Databases
-- MSSQL
-- PostgreSQL
-- MySQL
-- SQLite
+## 🔒 Cybersecurity Skills:
+ - Knowledgeable in cybersecurity principles, practices, and methodologies.
+ - Proficient in cryptographic algorithms and protocols.
+ - Familiarity with security tools (Wireshark, tcpdump, Splunk, Snort, Suricata).
+ - Strong fundamentals in Linux command line.
 
-## Cloud
-- Azure
-- GCP
-- Heroku
-- Render
+## 🌐 Networking Skills:
+ - Possess a solid foundation in networking concepts, including DNS, LAN/WAN technologies, firewalls, with a comprehensive understanding of the TCP/IP model, OSI model, and other key protocols.
 
-## Vcs
-- Git
+
+
+

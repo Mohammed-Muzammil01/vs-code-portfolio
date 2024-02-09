@@ -2,87 +2,64 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+Computer Science Engineer with a foundational understanding of cybersecurity principles, practices, and methodologies. Eager to secure a role as a Security Analyst to apply and enhance my knowledge in a real-world setting. Proficient in networking concepts, programming languages (C, JavaScript, Python, Kotlin), and equipped with hands-on experience in MERN stack development. Actively seeking opportunities to contribute to cybersecurity initiatives, enhance skills, and grow within the dynamic field of cybersecurity. 
 
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+ - Successfully completed multiple MERN stack projects, demonstrating proficiency in API creation and integration.
+ - Utilized Thunder Client and Postman for effective API testing and development.
+ - Knowledgeable in Google Cloud.
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
-
-&nbsp;
-
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
-
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
-
-&nbsp;
-
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
-
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
 
 ## Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+`2020-2024` [Lords Institute of Engineering and Technology](https://www.lords.ac.in/)
+- **Bachelors of Engineering** in Computer Science
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
 
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
+`2018-2020` [Sri Chaitanya Jr Kalasala]()
+- **Intermediate** in MPC. 
+- Percentage: 92%
 
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
-
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
 
 ## Skills
 
-### General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
-
 ### Programming languages
-- C# .NET
+- C
 - Python
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+- Kotlin
+- MERN stack
+
+### Tools
+- Git
+- Postman/Thunder Client
+- GCP
+- SQL
+- Linux
+- Wireshark
+- tcpdump
+- Splunk
+- Snort
+- Suricata
 
 ## Certificates
-- Certified Public Accountant (Taiwan)
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/Y5M7VBBZ9UKR)
+- [Google Cloud Computing Foundations](https://www.cloudskillsboost.google/public_profiles/b013233b-fe18-4403-8541-448c5b696a9c/badges/5538436?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 
 ## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+**GDSC Cloud Facilitator**
+Led Google sponsored Cloud Study Jams where we achieved 102
+completions in a month.
+
+**Event Management**
+Hosted a number of technical and community events on behalf of Google Developer Student Clubs at LIET.
+
 
 ## Languages
-**English**: C1
-**Chinese**: Native
+**English**: Professional
+**Urdu**: Native
+**Hindi**: Native
+**Arabic**: Elementary

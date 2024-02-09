@@ -38,20 +38,20 @@ export default function Home({ setSelectedIndex }: Props) {
       <Grid item xs={3}>
         <Stack direction={{ xs: "column", sm: "row-reverse" }} spacing={2}>
           <Box display="flex" sx={{ justifyContent: "center" }}>
-            <img src={logo} width="100px" alt="logo" />
+            <img src={logo} width="300px" alt="logo" />
           </Box>
           <Box>
             <Grid
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
-              <Typography variant="h3">{process.env.REACT_APP_NAME}</Typography>
+              <Typography variant="h3" style={{margin:"10px"}}>{process.env.REACT_APP_NAME}</Typography>
             </Grid>
             <Grid
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
-              <Typography variant="subtitle1" gutterBottom>
+              <Typography variant="subtitle1" gutterBottom style={{margin:"10px"}}>
                 Always difficult, always beautiful
                 {/* Better an{' '}
                 <Box fontWeight="fontWeightMedium" display="inline">
