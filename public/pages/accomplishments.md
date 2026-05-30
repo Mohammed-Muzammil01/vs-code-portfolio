@@ -1,7 +1,10 @@
 # 🏆 Accomplishments
 
-**GDSC Cloud Facilitator**
-Led Google sponsored Cloud Study Jams where we achieved 102 completions in a month.
+**GDSC Programming Lead — Google Developer Student Club (LIET)**
+`July 2023 – July 2024`
+Served as Programming Lead for GDSC at Lords Institute of Engineering and Technology. Led coding workshops, organised hackathons, and mentored students in programming fundamentals. Coordinated with faculty and Google representatives to deliver impactful technical events for a community of 100+ students.
 
-**Event Management**
-Hosted a number of technical and community events on behalf of Google Developer Student Clubs at LIET.
+**Google Cloud Study Jams Facilitator — GDSC (LIET)**
+`July 2023 – July 2024`
+Facilitated Google-sponsored Cloud Study Jams sessions, guiding students through Google Cloud learning paths. Achieved 102 course completions within a single month — one of the top performances across participating institutions.
+
