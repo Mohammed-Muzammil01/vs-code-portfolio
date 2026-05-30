@@ -1,24 +1,37 @@
 # 💻 Skills
 
-## General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
+## 🔒 Cybersecurity
+- SIEM & Log Monitoring — Splunk Enterprise, Windows Event Logs, Sysmon
+- MITRE ATT&CK Framework & Kill Chain Analysis
+- Incident Response Fundamentals
+- Penetration Testing — Linux & Windows environments
+- Web Application Security — Burp Suite, OWASP Top 10
+- Network Security — Wireshark, Snort, Suricata, tcpdump
+- Adversary Emulation — MITRE Caldera, Metasploit
+- Security Automation — n8n, Ollama, AI-assisted SOC pipelines
+- Vulnerability Assessment & Threat Detection
 
-## 💻 Programming Skills:
- - Proficient in C, JavaScript, Python, and Kotlin.
- - Demonstrated expertise in full-stack web development using the MERN stack.
- - Strong fundamentals in git, SQL and Linux command line.
+## 🌐 Networking
+- TCP/IP Model, OSI Model, DNS, HTTP/S, FTP, SSH
+- LAN/WAN Technologies, Firewalls, VPNs
+- Network Traffic Analysis & Protocol Inspection
+- Subnetting & Network Architecture Fundamentals
 
-## 🔒 Cybersecurity Skills:
- - Knowledgeable in cybersecurity principles, practices, and methodologies.
- - Proficient in cryptographic algorithms and protocols.
- - Familiarity with security tools (Wireshark, tcpdump, Splunk, Snort, Suricata).
- - Strong fundamentals in Linux command line.
+## 💻 Programming
+- Python
+- JavaScript / TypeScript
+- Bash / Shell Scripting
+- C
 
-## 🌐 Networking Skills:
- - Possess a solid foundation in networking concepts, including DNS, LAN/WAN technologies, firewalls, with a comprehensive understanding of the TCP/IP model, OSI model, and other key protocols.
+## 🛠️ Frameworks & Tools
+- React.js / MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- n8n, Ollama
+- Git / GitHub
+- Postman / Thunder Client
+- SQL
+- VMware Workstation Pro
 
-
-
-
+## ☁️ Cloud & Platforms
+- Google Cloud Platform (GCP)
+- Linux , Windows OS
+- GitHub 
