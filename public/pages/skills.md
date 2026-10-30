@@ -1,14 +1,14 @@
 # 💻 Skills
 
 ## 🔒 Cybersecurity
-- SIEM & Log Monitoring — Splunk Enterprise, Windows Event Logs, Sysmon
+- SIEM & Log Monitoring — Splunk Enterprise, Splunk Universal Forwarder, Sysmon, Windows Event Logs (4688, 4104)
 - MITRE ATT&CK Framework & Kill Chain Analysis
 - Incident Response Fundamentals
 - Penetration Testing — Linux & Windows environments
 - Web Application Security — Burp Suite, OWASP Top 10
 - Network Security — Wireshark, Snort, Suricata, tcpdump
 - Adversary Emulation — MITRE Caldera, Metasploit
-- Security Automation — n8n, Ollama, AI-assisted SOC pipelines
+- Security Automation — n8n, VirusTotal API, Ollama, Splunk HEC, AI-assisted alert triage
 - Vulnerability Assessment & Threat Detection
 
 ## 🌐 Networking
@@ -18,7 +18,7 @@
 - Subnetting & Network Architecture Fundamentals
 
 ## 💻 Programming
-- Python
+- Python (Pandas, scikit-learn, API automation)
 - JavaScript / TypeScript
 - Bash / Shell Scripting
 - C

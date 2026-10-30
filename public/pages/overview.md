@@ -2,20 +2,22 @@
 
 ## Summary
 
-Cybersecurity graduate student with hands-on experience in SOC operations, SIEM monitoring, threat detection, and security automation. Currently pursuing a Master of Cybersecurity at Victoria Institute of Technology, Melbourne. Familiar with incident response fundamentals and the MITRE ATT&CK framework, with practical exposure to Splunk Enterprise, Sysmon, and Windows Event Logging. Holds Google Cybersecurity Professional Certificate and TryHackMe Junior Penetration Tester certification. Open to entry-level SOC Analyst and cybersecurity roles.
+Master of Cybersecurity graduate (Victoria Institute of Technology, Melbourne — completing Nov 2026) with hands-on home-lab SOC experience in SIEM engineering, threat detection, and security automation. Built an AI-assisted alert enrichment pipeline (Sysmon → Splunk → n8n → VirusTotal + local LLM → Splunk HEC) and researched LLM-based classification of security events. Working knowledge of incident response and the MITRE ATT&CK framework from both defensive and red-team perspectives. CompTIA Security+ certified.
+
+**Open to:** entry-level SOC Analyst, Cyber Defence, and Detection roles · **Available:** December 2026 · **Work rights:** full-time
 
 ## Experience
 
 - Freelance MERN Stack Web Developer — built and deployed web applications for clients including Innov8 (construction material supplier) and Skup (social media app).
 - Web Developer Intern at CodeClause — developed responsive web applications and collaborated in agile development cycles.
-- Built an AI-powered SOC alert enrichment pipeline using Splunk, n8n, Ollama, and Sysmon in a personal home lab environment.
+- Built an AI-powered SOC alert enrichment pipeline (Sysmon, Splunk, n8n, VirusTotal, Ollama, HEC) in a personal home lab environment.
 - Programming Lead at Google Developer Student Club (LIET) — led workshops, hackathons, and technical events for 100+ students.
 
 ## Education
 
 `2024-2026` [Victoria Institute of Technology](https://vit.edu.au/)
 - **Master of Cybersecurity**
-- Relevant: Ethical Hacking, Network Security, Cyber Security Management, Security Governance
+- Relevant: Ethical Hacking, Network Security, Cyber Security Management, Security Governance, Advanced Research Topics (LLMs for security log analysis)
 
 `2020-2024` [Lords Institute of Engineering and Technology](https://www.lords.ac.in/)
 - **Bachelor of Engineering** in Computer Science
@@ -23,7 +25,7 @@ Cybersecurity graduate student with hands-on experience in SOC operations, SIEM 
 ## Skills
 
 ### Cybersecurity
-- SIEM & Log Monitoring (Splunk Enterprise, Sysmon, Windows Event Logs)
+- SIEM & Log Monitoring (Splunk Enterprise, Splunk UF, Sysmon, Windows Event Logs 4688/4104)
 - MITRE ATT&CK Framework
 - Incident Response Fundamentals
 - Penetration Testing (Linux & Windows)
@@ -39,7 +41,7 @@ Cybersecurity graduate student with hands-on experience in SOC operations, SIEM 
 
 ### Frameworks & Tools
 - React.js / MERN Stack
-- n8n, Ollama
+- n8n, Ollama, VirusTotal API
 - Git / GitHub
 - Postman / Thunder Client
 - GCP
@@ -47,6 +49,7 @@ Cybersecurity graduate student with hands-on experience in SOC operations, SIEM 
 - SQL
 
 ## Certificates
+- CompTIA Security+ (SY0-701)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/Y5M7VBBZ9UKR)
 - [TryHackMe — Junior Penetration Tester Path](https://tryhackme.com)
 - [Google Cloud Computing Foundations](https://www.cloudskillsboost.google/public_profiles/b013233b-fe18-4403-8541-448c5b696a9c/badges/5538436)

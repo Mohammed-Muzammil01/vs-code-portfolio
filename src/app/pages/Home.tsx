@@ -51,7 +51,23 @@ export default function Home({ setSelectedIndex }: Props) {
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
-              <Typography variant="subtitle1" gutterBottom style={{margin:"10px"}}>
+              <Typography variant="h6" style={{margin:"0 10px"}}>
+                SOC Analyst · Splunk · Sysmon · Detection &amp; Automation
+              </Typography>
+            </Grid>
+            <Grid
+              display="flex"
+              justifyContent={{ xs: "center", sm: "flex-start" }}
+            >
+              <Typography variant="body2" style={{margin:"4px 10px", opacity: 0.8}}>
+                Melbourne · Available Dec 2026 · Full-time work rights
+              </Typography>
+            </Grid>
+            <Grid
+              display="flex"
+              justifyContent={{ xs: "center", sm: "flex-start" }}
+            >
+              <Typography variant="subtitle1" gutterBottom style={{margin:"10px", fontStyle:"italic"}}>
                 Always difficult, always beautiful
                 {/* Better an{' '}
                 <Box fontWeight="fontWeightMedium" display="inline">

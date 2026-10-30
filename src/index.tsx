@@ -5,6 +5,11 @@ import reportWebVitals from "./reportWebVitals";
 // import { BrowserRouter } from 'react-router-dom';
 import { HashRouter } from "react-router-dom";
 
+// Redirect clean paths (e.g. /projects) to hash routes (/#/projects) so deep links work
+if (window.location.pathname !== "/" && !window.location.hash) {
+  window.location.replace("/#" + window.location.pathname + window.location.search);
+}
+
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
