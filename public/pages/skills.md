@@ -6,7 +6,7 @@
 - Incident Response Fundamentals
 - Penetration Testing — Linux & Windows environments
 - Web Application Security — Burp Suite, OWASP Top 10
-- Network Security — Wireshark, Snort, Suricata, tcpdump
+- Network Security — Wireshark, Snort, tcpdump
 - Adversary Emulation — MITRE Caldera, Metasploit
 - Security Automation — n8n, VirusTotal API, Ollama, Splunk HEC, AI-assisted alert triage
 - Vulnerability Assessment & Threat Detection

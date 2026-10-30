@@ -1,6 +1,6 @@
 # 🧪 Projects
 
-## [AI-Powered SOC Alert Enrichment Pipeline](https://medium.com/@muzzzz2k3) 🔗
+## [AI-Powered SOC Alert Enrichment Pipeline](https://medium.com/@muzzzz2k3/building-an-ai-powered-soc-alert-enrichment-pipeline-a-complete-implementation-guide-24afeaaf6651) 🔗
 `Home lab · 2026 – Present`
 
 **Flow:** Sysmon → Splunk (UF) → n8n → VirusTotal + Ollama (phi3:mini) → back to Splunk via HEC
@@ -10,7 +10,7 @@
 - Expanded Windows logging: Security 4688 process creation with full command lines, and PowerShell 4104 script block logging to surface decoded `-enc` payloads.
 - Forwarded telemetry via Splunk Universal Forwarder into separate `sysmon` and `wineventlog` indexes to keep detection searches scoped and fast.
 - Automated alert triage in n8n: Splunk alerts enriched with VirusTotal threat intelligence and summarised by a local LLM (Ollama), with verdicts written back to Splunk through the HTTP Event Collector.
-- Documented the build in a [Medium write-up](https://medium.com/@muzzzz2k3).
+- Documented the build in a [Medium write-up](https://medium.com/@muzzzz2k3/building-an-ai-powered-soc-alert-enrichment-pipeline-a-complete-implementation-guide-24afeaaf6651).
 - **Stack:** Splunk Enterprise, Splunk UF, Sysmon, Windows Event Logging, n8n, VirusTotal API, Ollama, Ubuntu Server, VMware
 
 ## [ICT704 CTF War Game — Red vs Blue Team Exercise]() 🔗

@@ -4,7 +4,7 @@
 
 Master of Cybersecurity graduate (Victoria Institute of Technology, Melbourne — completing Nov 2026) with hands-on home-lab SOC experience in SIEM engineering, threat detection, and security automation. Built an AI-assisted alert enrichment pipeline (Sysmon → Splunk → n8n → VirusTotal + local LLM → Splunk HEC) and researched LLM-based classification of security events. Working knowledge of incident response and the MITRE ATT&CK framework from both defensive and red-team perspectives. CompTIA Security+ certified.
 
-**Open to:** entry-level SOC Analyst, Cyber Defence, and Detection roles · **Available:** December 2026 · **Work rights:** full-time
+**Open to:** entry-level SOC Analyst, Cyber Defence, and Detection roles · **Available:** December 2026 · **Work rights:** Temporary Graduate visa (subclass 485, full-time work rights) expected Dec 2026 – Jan 2027
 
 ## Experience
 
@@ -31,7 +31,7 @@ Master of Cybersecurity graduate (Victoria Institute of Technology, Melbourne �
 - Incident Response Fundamentals
 - Penetration Testing (Linux & Windows)
 - Web Application Security (Burp Suite)
-- Network Security (Wireshark, Snort, Suricata, tcpdump)
+- Network Security (Wireshark, Snort, tcpdump)
 - MITRE Caldera, Metasploit
 
 ### Programming Languages

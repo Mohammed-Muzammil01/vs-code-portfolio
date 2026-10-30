@@ -60,7 +60,7 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="body2" style={{margin:"4px 10px", opacity: 0.8}}>
-                Melbourne · Available Dec 2026 · Full-time work rights
+                Melbourne · Available Dec 2026 · Temporary Graduate visa (485) expected Dec 2026 – Jan 2027
               </Typography>
             </Grid>
             <Grid
