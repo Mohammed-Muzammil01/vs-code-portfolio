@@ -1,6 +1,6 @@
 # 🥇 Certificates
 
-- **CompTIA Security+ (SY0-701)**
+- [CompTIA Security+ (SY0-701)](https://www.credly.com/badges/b922b5d2-0968-4501-8753-f651c87c8ce0/public_url)
   `Sept 2026` | CompTIA
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/Y5M7VBBZ9UKR)
