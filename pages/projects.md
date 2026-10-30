@@ -1,30 +1,43 @@
 # 🧪 Projects
 
-## [AI-Powered SOC Alert Enrichment Pipeline]() 🔗
-- Built a personal SOC home lab using VMware virtual machines with Windows 11 and Ubuntu Server.
-- Configured Windows event forwarding and Sysmon telemetry for endpoint threat visibility.
-- Set up Splunk Enterprise for centralised log monitoring, SIEM pipelines, and security event analysis.
-- Developed AI-assisted security automation workflows using n8n and Ollama to automatically enrich and triage SOC alerts.
-- Gained hands-on experience in detection engineering, SOC workflows, and event-driven security automation.
-- **Stack:** Splunk Enterprise, Sysmon, n8n, Ollama, Ubuntu Server, Windows 11, VMware
+## [AI-Powered SOC Alert Enrichment Pipeline](https://medium.com/@muzzzz2k3/building-an-ai-powered-soc-alert-enrichment-pipeline-a-complete-implementation-guide-24afeaaf6651) 🔗
+`Home lab · 2026 – Present`
+
+**Flow:** Sysmon → Splunk (UF) → n8n → VirusTotal + Ollama (phi3:mini) → back to Splunk via HEC
+
+- Built a VMware SOC home lab (Windows endpoints, Ubuntu Splunk server) on a dedicated lab subnet.
+- Deployed Sysmon with an ATT&CK-tagged configuration (sysmon-modular) for process, network, file, registry, and DNS telemetry.
+- Expanded Windows logging: Security 4688 process creation with full command lines, and PowerShell 4104 script block logging to surface decoded `-enc` payloads.
+- Forwarded telemetry via Splunk Universal Forwarder into separate `sysmon` and `wineventlog` indexes to keep detection searches scoped and fast.
+- Automated alert triage in n8n: Splunk alerts enriched with VirusTotal threat intelligence and summarised by a local LLM (Ollama), with verdicts written back to Splunk through the HTTP Event Collector.
+- Documented the build in a [Medium write-up](https://medium.com/@muzzzz2k3/building-an-ai-powered-soc-alert-enrichment-pipeline-a-complete-implementation-guide-24afeaaf6651).
+- **Stack:** Splunk Enterprise, Splunk UF, Sysmon, Windows Event Logging, n8n, VirusTotal API, Ollama, Ubuntu Server, VMware
 
 ## [ICT704 CTF War Game — Red vs Blue Team Exercise]() 🔗
-- Participated in a live Capture the Flag war game exercise as red team lead.
+- Led the red team in a live Capture the Flag war game against an active blue team.
 - Executed a full MITRE ATT&CK kill chain — initial access, privilege escalation, credential dumping, lateral movement, and persistence.
-- Used MITRE Caldera as C2 platform to automate and orchestrate the attack chain across multiple victim VMs.
-- Successfully maintained persistent control of the Windows VM using a watchdog cron job against active blue team defence.
+- Used MITRE Caldera as C2 to automate and orchestrate the attack chain across multiple victim VMs.
+- Maintained persistent control of the Windows VM via a watchdog cron job despite active blue team defence.
 - **Stack:** MITRE Caldera, Parrot OS, Kali Linux, VMware, John the Ripper, Responder, nmap, sshpass
 
-## [Azilfa - Online Jersey Store](https://azilfajerseys.com/) 🔗
-- A full-stack MERN e-commerce application for an online jersey store.
-- Integrated with the Stripe API to handle secure payments.
+## ICT801 Research — Evaluating LLMs for Security Log Classification
+`Master's research · 2026`
+- Comparative evaluation of large language models classifying security-relevant vs benign events in public labelled log datasets.
+- Controlled experiment under a uniform prompting and evaluation protocol, scored with precision, recall, and F1, plus error analysis of false positives and negatives.
+- **Stack:** Python, Pandas, scikit-learn
+
+---
+
+## Other — Web Development
+
+### [Azilfa - Online Jersey Store](https://azilfajerseys.com/) 🔗
+- Full-stack MERN e-commerce application with Stripe payment integration.
 - **Stack:** MongoDB, Express.js, React.js, Node.js, Stripe API
 
-## [JARVIS - AI Chatbot Assistant](https://jarvis-blond.vercel.app/) 🔗
-- An AI chatbot powered by OpenAI API, trained on personal data to answer professional queries.
-- Integrated with GPT-3.5 LLM using the OpenAI API.
-- **Stack:** React.js, OpenAI API, GPT-3.5
+### [JARVIS - AI Chatbot Assistant](https://jarvis-blond.vercel.app/) 🔗
+- AI assistant answering professional queries from personal data via the OpenAI API.
+- **Stack:** React.js, OpenAI API
 
-## [ChatEngine - Chatbot Customization Platform](https://chatengine-frontend.vercel.app/) 🔗
-- Web platform for creating and deploying custom AI chatbots powered by popular LLMs including GPT-3.5.
+### [ChatEngine - Chatbot Customization Platform](https://chatengine-frontend.vercel.app/) 🔗
+- Platform for creating and deploying custom LLM-powered chatbots.
 - **Stack:** React.js, LLM APIs, JavaScript
