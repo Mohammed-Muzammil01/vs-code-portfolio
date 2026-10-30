@@ -8,6 +8,7 @@ Master of Cybersecurity graduate (Victoria Institute of Technology, Melbourne �
 
 ## Experience
 
+- Web Application Developer (Internship) at Swifton Group (Aug–Oct 2026) — built the RideNexx hotel staff dashboard (React, PostgreSQL, REST APIs, RBAC).
 - Freelance MERN Stack Web Developer — built and deployed web applications for clients including Innov8 (construction material supplier) and Skup (social media app).
 - Web Developer Intern at CodeClause — developed responsive web applications and collaborated in agile development cycles.
 - Built an AI-powered SOC alert enrichment pipeline (Sysmon, Splunk, n8n, VirusTotal, Ollama, HEC) in a personal home lab environment.

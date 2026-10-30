@@ -1,5 +1,13 @@
 # 👨‍💻 Experience
 
+## Web Application Developer (Internship) — Swifton Group
+`Aug 2026 – Oct 2026` | Melbourne, Australia
+
+- Developed the hotel staff web dashboard for **RideNexx**, a guest ride-booking platform, as part of a multi-person development team.
+- Built the frontend in React against REST APIs, backed by a PostgreSQL database.
+- Implemented role-based access control (RBAC) so hotel staff only see and act on bookings permitted for their role.
+- Contributed to stack and architecture decisions (React, PostgreSQL, REST) and worked in an agile team under a technical lead.
+
 ## Freelance MERN Stack Web Developer
 `June 2024 – Present` | Remote
 
