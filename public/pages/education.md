@@ -1,6 +1,6 @@
 # 👨‍🎓 Education
 
-`2024 – 2026` [Victoria Institute of Technology](https://vit.edu.au/)
+`May 2025 – Nov 2026` [Victoria Institute of Technology](https://vit.edu.au/)
 - **Master of Cybersecurity**
 - Melbourne, Australia · Completing Nov 2026
 - Relevant: Ethical Hacking, Network Security, Cyber Security Management, Security Governance

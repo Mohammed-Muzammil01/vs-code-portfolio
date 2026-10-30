@@ -16,7 +16,7 @@ Master of Cybersecurity graduate (Victoria Institute of Technology, Melbourne â€
 
 ## Education
 
-`2024-2026` [Victoria Institute of Technology](https://vit.edu.au/)
+`2025-2026` [Victoria Institute of Technology](https://vit.edu.au/)
 - **Master of Cybersecurity**
 - Relevant: Ethical Hacking, Network Security, Cyber Security Management, Security Governance, Advanced Research Topics (LLMs for security log analysis)
 
