@@ -52,7 +52,7 @@ Master of Cybersecurity graduate (Victoria Institute of Technology, Melbourne �
 ## Certificates
 - CompTIA Security+ (SY0-701)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/Y5M7VBBZ9UKR)
-- [TryHackMe — Junior Penetration Tester Path](https://tryhackme.com)
+- [TryHackMe — Junior Penetration Tester Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S9OJC3YFNZ.pdf)
 - [Google Cloud Computing Foundations](https://www.cloudskillsboost.google/public_profiles/b013233b-fe18-4403-8541-448c5b696a9c/badges/5538436)
 
 ## Accomplishments
