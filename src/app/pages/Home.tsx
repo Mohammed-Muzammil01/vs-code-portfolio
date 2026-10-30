@@ -68,7 +68,7 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               <Typography variant="subtitle1" gutterBottom style={{margin:"10px", fontStyle:"italic"}}>
-                Always difficult, always beautiful
+                Reading between the lines, in poetry and in logs.
                 {/* Better an{' '}
                 <Box fontWeight="fontWeightMedium" display="inline">
                   oops
